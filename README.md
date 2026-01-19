@@ -54,9 +54,5 @@ Welcome to my portfolio! This repository contains 6 hands-on projects completed 
 ---
 
 ## 📫 Connect with Me
-* [LinkedIn](#) * [Email](#) ```
+* [https://linkedin.com/in/shubhangi-chaurasia-59504a282](#) * [shubhangichaurasiakiet775@gmail.com](#) ```
 
-### 💡 Pro Tip:
-In the sections that say `[View Code](./Task_1_House_Price_Prediction)`, make sure the text inside the parentheses `(./...)` matches the **exact name of your folders** on GitHub. If your folder is named `Task_1`, change it to `(./Task_1)`. This creates clickable links so recruiters can jump straight to your code!
-
-Key Achievement: Built an NLP pipeline capable of distinguishing between 279 unique emotions (e.g., Euphoria, Melancholy) using TF-IDF for text vectorization, performing significantly better than random baselines on a complex multi-class problem.
