@@ -1,42 +1,62 @@
-📂 Project Portfolio (Data Science & Machine Learning)
-1. Real Estate Price Prediction (Regression Analysis)
-Objective: Predicted housing prices based on features like square footage and number of bedrooms.
+# 📊 Data Science & Machine Learning Portfolio
 
-Tech Stack: Python, Pandas, Scikit-Learn (Linear Regression), Matplotlib.
+Welcome to my portfolio! This repository contains 6 hands-on projects completed during my Data Science Internship, covering the full end-to-end Machine Learning lifecycle—from Data Preprocessing and Visualization to NLP and Model Evaluation.
 
-Key Achievement: Built a Linear Regression model that successfully identified the correlation between property size and market value, visualizing the results with regression lines.
+---
 
-2. Financial Time-Series Data Pipeline (Data Engineering)
-Objective: Cleaned and preprocessed raw stock market data for algorithmic trading models.
+## 📂 Project Showcase
 
-Tech Stack: Python, Pandas, DateTime.
+### 1. 🏠 Real Estate Price Prediction (Regression)
+* **Objective:** Predict housing prices based on features like square footage and number of bedrooms.
+* **Tech Stack:** Python, Pandas, Scikit-Learn (Linear Regression), Matplotlib.
+* **Key Achievement:** Built a Linear Regression model that successfully identified the correlation between property size and market value, visualizing the results with regression lines.
+* **[View Code](./Task_1_House_Price_Prediction)**
 
-Key Achievement: Engineered a robust data pipeline that handled missing values using Forward Fill, filtered specifically for Apple (AAPL) stock, and normalized high-variance volume data using MinMax Scaling.
+### 2. 📈 Financial Time-Series Data Pipeline
+* **Objective:** Clean and preprocess raw stock market data for algorithmic trading models.
+* **Tech Stack:** Python, Pandas, DateTime.
+* **Key Achievement:** Engineered a robust data pipeline that handled missing values using Forward Fill, filtered specifically for Apple (AAPL) stock, and normalized high-variance volume data using MinMax Scaling.
+* **[View Code](./Task_2_Stock_Preprocessing)**
 
-3. Iris Species Classification (Supervised Learning)
-Objective: Automated the classification of Iris flower species based on botanical measurements.
+### 3. 🌸 Iris Species Classification
+* **Objective:** Automate the classification of Iris flower species based on botanical measurements.
+* **Tech Stack:** Python, Scikit-Learn (K-Nearest Neighbors).
+* **Key Achievement:** Achieved **100% accuracy** using a K-Nearest Neighbors (KNN) algorithm, demonstrating proficiency in model training and hyperparameter tuning.
+* **[View Code](./Task_3_Iris_KNN)**
 
-Tech Stack: Python, Scikit-Learn (K-Nearest Neighbors).
+### 4. 🌳 Interpretable AI: Decision Tree Visualization
+* **Objective:** Create a "White Box" model to explain the logic behind classification decisions.
+* **Tech Stack:** Python, Scikit-Learn (Decision Trees), Matplotlib.
+* **Key Achievement:** Visualized the decision-making process of the model, generating a flowchart that mapped specific feature thresholds (e.g., *Petal Length < 2.45*) to final predictions.
+* **[View Code](./Task_4_Iris_DecisionTree)**
 
-Key Achievement: Achieved 100% accuracy using a K-Nearest Neighbors (KNN) algorithm, demonstrating proficiency in model training and hyperparameter tuning.
+### 5. 📉 Customer Churn Prediction
+* **Objective:** Predict customer attrition to help businesses improve retention strategies.
+* **Tech Stack:** Python, Scikit-Learn (Logistic Regression), LabelEncoder.
+* **Key Achievement:** Processed business data using Label Encoding for categorical variables and achieved **~85% accuracy** in predicting whether a customer would leave or stay.
+* **[View Code](./Task_5_Churn_Prediction)**
 
-4. Interpretable AI: Decision Tree Visualization
-Objective: Created a "White Box" model to explain the logic behind classification decisions.
+### 6. 😃 Fine-Grained Emotion Recognition (NLP)
+* **Objective:** Analyze unstructured text data to detect complex emotional states.
+* **Tech Stack:** Python, TF-IDF Vectorization, Support Vector Machines (SVM).
+* **Key Achievement:** Built an NLP pipeline capable of distinguishing between **279 unique emotions** (e.g., Euphoria, Melancholy) using TF-IDF for text vectorization, performing significantly better than random baselines on a complex multi-class problem.
+* **[View Code](./Task_6_Sentiment_SVM)**
 
-Tech Stack: Python, Scikit-Learn (Decision Trees), Matplotlib.
+---
 
-Key Achievement: Visualized the decision-making process of the model, generating a flowchart that mapped specific feature thresholds (e.g., Petal Length < 2.45) to final predictions.
+## 🛠 Technical Skills
+* **Languages:** Python
+* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+* **Machine Learning:** Regression, Classification (KNN, SVM, Logistic), Decision Trees
+* **Data Engineering:** Data Cleaning, Feature Scaling (MinMax, Standard), Label Encoding
+* **Natural Language Processing:** Text Preprocessing, TF-IDF Vectorization
 
-5. Customer Churn Prediction (Business Analytics)
-Objective: Predicted customer attrition to help businesses improve retention strategies.
+---
 
-Tech Stack: Python, Scikit-Learn (Logistic Regression), LabelEncoder.
+## 📫 Connect with Me
+* [LinkedIn](#) * [Email](#) ```
 
-Key Achievement: Processed business data using Label Encoding for categorical variables and achieved ~85% accuracy in predicting whether a customer would leave or stay.
-
-6. Fine-Grained Emotion Recognition (NLP)
-Objective: Analyzed unstructured text data to detect complex emotional states.
-
-Tech Stack: Python, TF-IDF Vectorization, Support Vector Machines (SVM).
+### 💡 Pro Tip:
+In the sections that say `[View Code](./Task_1_House_Price_Prediction)`, make sure the text inside the parentheses `(./...)` matches the **exact name of your folders** on GitHub. If your folder is named `Task_1`, change it to `(./Task_1)`. This creates clickable links so recruiters can jump straight to your code!
 
 Key Achievement: Built an NLP pipeline capable of distinguishing between 279 unique emotions (e.g., Euphoria, Melancholy) using TF-IDF for text vectorization, performing significantly better than random baselines on a complex multi-class problem.
