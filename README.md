@@ -55,4 +55,4 @@ Welcome to my portfolio! This repository contains 6 hands-on projects completed 
 
 ## 📫 Connect with Me
  * [LinkedIn](https://linkedin.com/in/shubhangi-chaurasia-59504a282)
- * [Email](shubhangichaurasiakiet775@gmail.com) 
+ * [Email](mailto:shubhangichaurasiakiet775@gmail.com) 
