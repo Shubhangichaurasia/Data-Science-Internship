@@ -10,7 +10,7 @@ Welcome to my portfolio! This repository contains 6 hands-on projects completed 
 * **Objective:** Predict housing prices based on features like square footage and number of bedrooms.
 * **Tech Stack:** Python, Pandas, Scikit-Learn (Linear Regression), Matplotlib.
 * **Key Achievement:** Built a Linear Regression model that successfully identified the correlation between property size and market value, visualizing the results with regression lines.
-* **[View Code](./Task_1_House_Price_Prediction)**
+* **[View Code](./Task_1_HousePrediction)**
 
 ### 2. 📈 Financial Time-Series Data Pipeline
 * **Objective:** Clean and preprocess raw stock market data for algorithmic trading models.
